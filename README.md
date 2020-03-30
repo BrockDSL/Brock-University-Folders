@@ -28,6 +28,10 @@ Start Folding!
 
 
 
+![Vis viewer](viewer_screenshot.png)
+
+
+
 ## How Can My Lab Help?
 
 The good new is that the client is built for Linux, Mac, Windows you name it. We have a *config.xml* file we can share if you just want to run it from the command line. 
