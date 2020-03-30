@@ -14,27 +14,31 @@ More details in this Folding at Home blog post [Coronavirus – What we’re doi
 
 
 
-## How Can I help:
+## How Can I help?
 
-You can install the folding software on your home computer. 
+You can install the folding software on your home computer ([Windows](https://foldingathome.org/support/faq/installation-guides/windows/)) ([Mac](https://foldingathome.org/support/faq/installation-guides/mac/)) ([Linux](https://foldingathome.org/support/faq/installation-guides/linux/)) Follow all the instructions as outlined on the page
 
-Join with our team name
+Join our team [The Brock University Folders](https://stats.foldingathome.org/team/256609) In the config section of the client, enter in your name and use **256609** for team number.
+
+![team_number](team_number.png)
 
 Let us know you're helping by sending an email to dsl@brocku.ca 
+
+Start Folding!
 
 
 
 ## How Can My Lab Help?
 
-The good new is that the client is built for Linux, Mac, Windows you name it. We have a config.xml file we can share if you just want to run it frum the command line. Just run Folding with the Team Name outlined above to add to the leaderboard.  
+The good new is that the client is built for Linux, Mac, Windows you name it. We have a *config.xml* file we can share if you just want to run it from the command line. 
 
-Once you do contact us at dsl@brocku.ca so we can add you to our list.
+Once you do or if you need help please contact us at dsl@brocku.ca so we can add you to our list.
 
 
 
 ## How are we doing so far?
 
-Good question, check out the team page for more info
+Good question, check out the team page for more info: [https://stats.foldingathome.org/team/256609](https://stats.foldingathome.org/team/256609)
 
 
 
