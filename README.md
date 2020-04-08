@@ -12,6 +12,9 @@ More details in this Folding at Home blog post [Coronavirus – What we’re doi
 
 ##  Partners
 
+- Brock Library - Classroom A computers
+- Digital Scholarship Lab Staff Home Computers
+
 
 
 ## How Can I help?
@@ -34,7 +37,7 @@ Start Folding!
 
 ## How Can My Lab Help?
 
-The good new is that the client is built for Linux, Mac, Windows you name it. We have a *config.xml* file we can share if you just want to run it from the command line. 
+The good new is that the client is built for Linux, Mac, Windows you name it. The software can run as a screensaver on your computer so it will only start when you're not using it. 
 
 Once you do or if you need help please contact us at dsl@brocku.ca so we can add you to our list.
 
