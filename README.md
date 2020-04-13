@@ -12,7 +12,8 @@ More details in this Folding at Home blog post [Coronavirus – What we’re doi
 
 ##  Partners
 
-- Brock Library - Classroom A computers
+- Brock Library - Classroom A Computers
+- Brock Physics - 38 Terminals
 - Digital Scholarship Lab Staff Home Computers
 
 
