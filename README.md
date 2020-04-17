@@ -8,6 +8,12 @@ More details in this Folding at Home blog post [Coronavirus – What we’re doi
 
 
 
+The response during the COVID crisis has been enourmous: 
+
+[Folding@Home Now More Powerful Than All the Supercomputers on Earth](https://www.extremetech.com/extreme/309386-foldinghome-now-more-powerful-than-all-the-supercomputers-on-earth) 
+
+
+
 
 
 ##  Partners
