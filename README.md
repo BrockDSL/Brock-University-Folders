@@ -1,5 +1,3 @@
-![dsl_logo](dsl_logo.png)
-
 # Brock University Folders
 
 You might of heard of [Folding at Home](https://foldingathome.org/) before. It is a massively distributed computing project to crowd source computation. With this project we are hoping to get the High Performance Computing community at Brock to donate spare computing cycles.
